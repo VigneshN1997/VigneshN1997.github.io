@@ -9,7 +9,7 @@ author_profile: true
 
 Education
 ======
-* Bachelor of Engineering (Honours) Computer Science, Birla Institute of Technology and Science Pilani, Pilani Campus <div align="right" markdown=1> **Aug '15 - Jun '19**  </div>
+* Bachelor of Engineering (Honours) Computer Science, Birla Institute of Technology and Science Pilani, Pilani Campus                              **Aug '15 - Jun '19**  
 
 
 Professional Experience
