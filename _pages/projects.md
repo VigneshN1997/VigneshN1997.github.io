@@ -31,7 +31,7 @@ Course Projects
     * Designed a parallel algorithm to facilitate joining and leaving of peers from a peer to peer network (represented as [RAQ data structure](http://faculty.marshall.usc.edu/Hamid-Nazerzadeh/pdf/raq.pdf)) using Foster’s Design methodology with a commodity cluster as the target platform.
     * Obtained logarithmic speedup and improved time complexity of joining mechanism compared to sequential execution.
 
-* **[Compiler for C-Like Language](https://github.com/VigneshN1997/Toy-Compiler-in-C)**, Compiler Construction, **Jan '18 - Apr '18**
+* **[Compiler for C-Like Language](https://github.com/VigneshN1997/Toy-Compiler-in-C)**, **Compiler Construction**, **Jan '18 - Apr '18**
     * Developed lexical, syntax, semantic analyzers, and code generator modules of a compiler for a language in C.
     * Implemented functionalities to support simple functions, simple matrix operations, and conditional statements.
 
