@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Daily Learnings"
-    url: /til/
+  # - title: "Daily Learnings"
+  #   url: /til/
     
   - title: "Resume"
     url: /resume/
