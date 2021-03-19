@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+# title: "Resume"
 permalink: /resume/
 author_profile: true
 ---
