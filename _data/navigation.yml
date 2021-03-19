@@ -2,12 +2,13 @@
 main: 
   # - title: "Publications"
   #   url: /publications/
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Resume"
+    url: /resume/
 
   - title: "Daily Learnings"
     url: /learnings/
     
-  - title: "Resume"
-    url: /resume/
-  
-  - title: "Projects"
-    url: /projects/
+
