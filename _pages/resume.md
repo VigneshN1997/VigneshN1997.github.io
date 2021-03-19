@@ -1,11 +1,14 @@
 ---
 layout: archive
-# title: "Resume"
+title: "Resume"
 permalink: /resume/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="https://vigneshn1997.github.io/files/Vignesh_resume.pdf">Download my resume here</a></p>
+<p style="text-decoration:underline;"><a href="https://vigneshn1997.github.io/files/Vignesh_1pager.pdf">Download my 1 page resume here</a></p>
+
+
+<p style="text-decoration:underline;"><a href="https://vigneshn1997.github.io/files/Vignesh_2pager.pdf">Download my detailed resume here</a></p>
 
 Education
 ======
@@ -14,7 +17,7 @@ Education
 
 Professional Experience
 ======
-* **Research Engineer**, **AI Labs, American Express (Amex)**, Bengaluru, India,     **Jul '19 - Present**
+* **AI Researcher 1**, **AI Labs, American Express (Amex)**, Bengaluru, India,     **Jul '19 - Present**
   * Responsibilities: Developing new features and maintaining existing features for the AXGBoost algorithm (have contributed to 4 releases till date); exploring new research problems relevant to the business for future products.
   * Projects:
     * **Improvement of XGBoost Distributed Algorithm**
