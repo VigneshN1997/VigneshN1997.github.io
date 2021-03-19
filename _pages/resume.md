@@ -7,9 +7,6 @@ author_profile: true
 
 <p style="text-decoration:underline;"><a href="https://vigneshn1997.github.io/files/Vignesh_1pager.pdf">Download my 1 page resume here</a></p>
 
-
-<p style="text-decoration:underline;"><a href="https://vigneshn1997.github.io/files/Vignesh_2pager.pdf">Download my detailed resume here</a></p>
-
 Education
 ======
 * Bachelor of Engineering (Honours) Computer Science, Birla Institute of Technology and Science Pilani, Pilani Campus  **Aug '15 - Jun '19**  
