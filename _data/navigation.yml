@@ -11,6 +11,6 @@ main:
   - title: "Daily Learnings"
     url: /learnings/
   
-    - title: "Nice articles"
-    url: /articles/
+  - title: "Nice articles"
+  url: /articles/
 
