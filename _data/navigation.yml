@@ -11,6 +11,7 @@ main:
   
   - title: "Nice articles"
     url: /articles/
+    
   - title: "CS Notes"
     url: /notes/
 
