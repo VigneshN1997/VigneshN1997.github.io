@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my abode. My name is Vignesh Nanda Kumar. I am currently working as a AI Researcher at AI Labs, American Express. I am a Computer Science graduate from BITS Pilani, Pilani Campus (2019 passout).
+Welcome to my abode. My name is Vignesh Nanda Kumar. I am currently working as a AI Researcher at AI Labs, American Express. I am a Computer Science graduate from BITS Pilani, Pilani Campus (2019 passout). I will be pursuing Masters in Computer Science and Engineering at the University of California, San Diego (UCSD) starting this Fall 2021.
 
 Having explored the field of Computer Science through my courses, projects, and work experiences, I have identified my areas of interest in Systems and Large-Scale Machine Learning (ML). 
 
