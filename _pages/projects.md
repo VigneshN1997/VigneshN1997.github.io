@@ -20,7 +20,7 @@ Course Projects
 * **[Kinship Verification from Facial Images of Parents and their Kids](https://1drv.ms/b/s!Avpe_Wh3r4Bfg4I5m5y8E6r0dl9w-Q?e=KugDQZ)**, **Machine Learning**, **Nov '18 - Dec '18**
     * Compared qualitatively and quantitatively the existing techniques (Artificial Neural Networks, SVM, CNN, ensemble of SVMs) for Kinship Verification in R using Keras library.
     * Used the results to design and implement an ensemble of Metric Learning based CNN architecture.
-    * Improved accuracy by 2.8\% on the KinFaceW-1 dataset and by 3.1\% on the KinFaceW-2 dataset.
+    * Improved accuracy by 2.8% on the KinFaceW-1 dataset and by 3.1% on the KinFaceW-2 dataset.
 
 * **[Data Analysis and Modelling of Student Course Grades](https://1drv.ms/b/s!Avpe_Wh3r4Bfg4I1OFsB7IxLlPSafA?e=DflKKs)**, **Machine Learning**, **Sep '18 - Oct '18**
     * Created a Bayesian Belief Network using bnlearn library in R based on grades of students, incorporating various hypotheses as to how attributes in data are related. 
