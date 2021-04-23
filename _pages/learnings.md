@@ -4,6 +4,23 @@ title: "Daily Learnings"
 permalink: /learnings/
 author_profile: true
 ---
+# 23/04/21
+* Improved the solution of 3 sum problem.
+* Revised graadient boosting.
+
+# 22/04/21
+* Solved the 3 sum problem.
+* Revised bias variance for ML models. 
+
+# 21/04/21
+* Learnt about different cross validation techniques for splitting data for ML modelling.
+
+# 20/04/21
+* Read about Kadane algorithm.
+* Learnt about deriving distributions of order statistics.
+
+# 19/04/21
+* Learnt about Gamma function and Gamma distribution and its relation to Exponential distribution.
 
 # 18/04/21
 * Learnt about using beta distribution as conjugate prior for binomial and deriving the posterior.
