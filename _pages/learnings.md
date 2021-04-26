@@ -4,9 +4,16 @@ title: "Daily Learnings"
 permalink: /learnings/
 author_profile: true
 ---
+# 25/04/21
+* Solved a DP problem for the first time on my own!!
+# 24/04/21
+* Worked on the math behind gradient boosting for classification.
+* Revised the basics of relational databases.
+* Understood the flow of write operation in Google File System.
+
 # 23/04/21
 * Improved the solution of 3 sum problem.
-* Revised graadient boosting.
+* Revised gradient boosting.
 
 # 22/04/21
 * Solved the 3 sum problem.
