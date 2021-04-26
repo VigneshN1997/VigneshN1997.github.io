@@ -4,6 +4,14 @@ title: "Daily Learnings"
 permalink: /learnings/
 author_profile: true
 ---
+
+# 26/04/21
+* Solved some problems on conditional expectations.
+* Read about some challenges in the implementation of Google File System.
+* Revised the basics of XGBoost for regression.
+* Sorting an array can help solve an array problem in linear time in general (can be a good technique).
+* Solving a factorial problem => can convert it to DP !!
+
 # 25/04/21
 * Solved a DP problem for the first time on my own!!.
 
