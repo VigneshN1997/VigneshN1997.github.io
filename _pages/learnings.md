@@ -5,7 +5,7 @@ permalink: /learnings/
 author_profile: true
 ---
 # 25/04/21
-* Solved a DP problem for the first time on my own!!
+* Solved a DP problem for the first time on my own!!.
 
 # 24/04/21
 * Worked on the math behind gradient boosting for classification.
