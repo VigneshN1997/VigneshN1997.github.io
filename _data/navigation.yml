@@ -1,17 +1,16 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
-
   - title: "Resume"
     url: /resume/
 
-  - title: "Daily Learnings"
-    url: /learnings/
-  
+  - title: "Projects"
+    url: /projects/
+
   - title: "Nice articles"
     url: /articles/
     
   - title: "CS Notes"
     url: /notes/
 
+  - title: "Daily Learnings"
+    url: /learnings/
