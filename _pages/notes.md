@@ -7,7 +7,7 @@ author_profile: true
 The below links are my handwritten notes on some CS/Math subjects whose videos are available on Youtube. It can be helpful for someone who wants to quickly revise a topic. These notes will be updated frequently as I am currently going through the lectures.
 
 # Math:
-* Probability and Statstics (Harvard University): [Videos](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo), [Notes](https://drive.google.com/file/d/1YODCoY5240uCu3WdRzlOp8S5cr5us8uv/view?usp=sharing) (till lecture 26 currently)
+* Probability and Statstics (Harvard University): [Videos](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo), [Notes](https://drive.google.com/file/d/1YODCoY5240uCu3WdRzlOp8S5cr5us8uv/view?usp=sharing) (till lecture 27 currently)
 * Linear Algebra (MIT): [Videos](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8), [Notes](https://drive.google.com/file/d/1-6ezU-da5Qpqo68GL08TYQwCSgeEcBbm/view?usp=sharing) (till lecture 9 currently)
 * Linear Algebra for ML (MIT): [Videos](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) (lecture 1 partial)
 
