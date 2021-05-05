@@ -4,22 +4,30 @@ title: "Daily Learnings"
 permalink: /learnings/
 author_profile: true
 ---
+
 # 04/05/21
 * Solved some problems on arrays. Always try the easiest solution first and then try to optimize it.
+
 # 03/05/21
 * Read this paper on scalable system for DL model selection: [Cerebro: A Layered Data Platform for Scalable Deep Learning](https://adalabucsd.github.io/papers/2021_Cerebro_CIDR.pdf).
+
 # 02/05/21
 * Derived the complexity of build max head function.
 * Solved some problems on trees.
+
 # 01/05/21
 * Learnt about some bit manipulation techniques to solve problems.
+
 # 30/04/21
 * Went through the concepts behind heap data structure.
 * Implemented the quick select algorithm (part of quick sort).
+
 # 29/04/21
 * Solved some problems on dynamic programming.
+
 # 28/04/21
 * Went through the mathematics behind XGBoost algorithm.
+
 # 27/04/21
 * Solved few linked list problems. Aim for the simplest solution first before optimizing.
 * Revised the basics of XGBoost for classification.
