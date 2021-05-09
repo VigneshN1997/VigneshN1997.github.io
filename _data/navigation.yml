@@ -12,5 +12,5 @@ main:
   - title: "CS Notes"
     url: /notes/
 
-  - title: "Daily Learnings"
-    url: /learnings/
+  # - title: "Daily Learnings"
+  #   url: /learnings/

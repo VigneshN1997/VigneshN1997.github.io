@@ -5,6 +5,20 @@ permalink: /learnings/
 author_profile: true
 ---
 
+# 08/05/21
+* Learnt about different approaches of database storage.
+
+# 07/05/21
+* Solved few linked list problems and revised SQL.
+
+# 06/05/21
+* Started reading papers on data systems for ML. Really big field to be explored!!
+
+# 05/05/21
+* Learnt about the overflow problem in binary search.
+* Solved a problem on first occurrence of a number (repeated) using binary search.
+* Hash tables are really useful in some settings!!
+
 # 04/05/21
 * Solved some problems on arrays. Always try the easiest solution first and then try to optimize it.
 
