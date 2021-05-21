@@ -4,6 +4,38 @@ title: "Daily Learnings"
 permalink: /learnings/
 author_profile: true
 ---
+# 19/05/21
+* 
+
+# 18/05/21
+* Need a way to ensure reproducibility across different versions.
+# 17/05/21
+* Debugging on large datasets in a distributed setup is hard!!
+
+# 16/05/21
+* Solved few problems on arrays.
+
+# 15/05/21
+* Learnt about buffer pools and memory management in DBMS.
+
+# 14/05/21
+* Solved few questions on binary search trees.
+* Need to work on a debugger for debugging for reproducibility across versions of a system.
+
+# 13/05/21
+* Continued reading the paper on RDDs.
+
+# 12/05/21
+* Revised BST, Hash tables.
+
+# 11/05/21
+*  Solved problems on arrays.
+
+# 10/05/21
+* Read about RDDs.
+
+# 09/05/21
+* Thought of some ideas/features which can be used to improve systems built using distributed ML algorithms.
 
 # 08/05/21
 * Learnt about different approaches of database storage.
