@@ -5,9 +5,6 @@ main:
 
   - title: "Projects"
     url: /projects/
-
-  # - title: "Nice articles"
-  #   url: /articles/
     
   - title: "CS Notes"
     url: /notes/
