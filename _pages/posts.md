@@ -5,7 +5,7 @@ permalink: /posts/
 author_profile: true
 ---
 
-# Masters Journey
+# Masters Application Journey
 
 I will be starting my Masters in Computer Science at the University of California San Diego this Fall 2021. In this post, I talk about my experience in applying for Masters. The idea of studying in the US started when I did this course on Data Structures and Algorithms on MIT Open courseware. I was fascinated by how easily they explain complex concepts and the interesting way the professor taught the concepts. I wanted to get a flavor of that. I discussed this with my friend and decided that yes, I want to go for Masters. Not just for the courses but also the seminal research being conducted.
 
