@@ -12,5 +12,7 @@ main:
   - title: "Posts"
     url: /posts/
 
+  - title: "Publications"
+    url: /publications/
   # - title: "Daily Learnings"
   #   url: /learnings/
