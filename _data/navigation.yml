@@ -9,10 +9,11 @@ main:
   - title: "Publications"
     url: /publications/  
   
-  - title: "CS Notes"
-    url: /notes/
-
   - title: "Posts"
     url: /posts/
+
+  # - title: "CS Notes"
+  #   url: /notes/
+
   # - title: "Daily Learnings"
   #   url: /learnings/
