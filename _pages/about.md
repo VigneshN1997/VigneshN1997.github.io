@@ -14,4 +14,4 @@ During my time at BITS, I took up courses and projects from different areas and 
 
 I am exploring more about scaling ML algorithms and processing data efficiently without compromising on the performance of ML systems. With the increase in usage of ML systems, there is a need to ensure that the system is adaptable and reusable across use cases. Motivated by my experiences, I want to lead the development of ML systems impacting society on a large scale. Through this, I hope to bridge the gap between the privileged and the underprivileged to create equal opportunities for everyone.
 
-Also, I am trying to cultivate a regular reading habit. My goal is to read at least 12 books this year. I am also a very ardent cricket fan.
+I am also a very ardent cricket fan.
