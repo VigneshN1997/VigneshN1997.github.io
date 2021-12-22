@@ -7,6 +7,11 @@ author_profile: true
 
 Research Projects
 ======
+* **[Integrate Cerebro (deep learning model selection system) with Dask](https://drive.google.com/file/d/1e-chrx22wGqx5fTEnND5NJvyzkfP4ERL/view?usp=sharing)**, UCSD, **Sep '21 - Dec '21**
+    * Developed a new backend for Cerebro using Dask that completely removes the Spark dependency while still implementing MOP.
+    * Implemented and showed the parallelism achieved by MOP using the Dask backend in a distributed cluster environment. 
+    * Evaluated the system performance on the Criteo dataset and performed an extensive analysis of results and comparison with the Spark backend.
+
 * **Parallelization of K-Medoids Clustering Algorithm**, BITS Pilani, **Aug '18 - Dec '18**
     * Developed parallel K-Medoids algorithm using Adaptive Gridding for spatial partitioning in Spark Java.
     * Improved the algorithm’s efficiency of selecting initial medoids without compromising the clustering error (average sample size is 10x less than the state of the art - [PAMAE](https://www.kdd.org/kdd2017/papers/view/pamae-parallel-k-medoids-clustering-with-high-accuracy-and-efficiency) given any skewed data set.
@@ -17,6 +22,11 @@ Research Projects
 
 Course Projects
 ======
+* **[Implementing and simulating performance of branch predictors](https://github.com/Abhiram-Medisetti/CSE240A)**, **Computer Architecture**, **Oct '21 - Dec '21**
+    * Implemented the GShare, Tournament and Perceptron branch predictors in C.
+    * Compared qualitatively and quantitatively the performance of the branch predictors on the Championship Branch Prediction traces.
+    * Showed the improvement in the branch prediction performance (10% improvement on average) when using Perceptron predictor over Tournament and GShare predictors.
+
 * **[Kinship Verification from Facial Images of Parents and their Kids](https://drive.google.com/file/d/1oJjtbW8Rp8cT_gGW8kv5S4PLYX5Z-1_2/view?usp=sharing)**, **Machine Learning**, **Nov '18 - Dec '18**
     * Compared qualitatively and quantitatively the existing techniques (Artificial Neural Networks, SVM, CNN, ensemble of SVMs) for Kinship Verification in R using Keras library.
     * Used the results to design and implement an ensemble of Metric Learning based CNN architecture.
