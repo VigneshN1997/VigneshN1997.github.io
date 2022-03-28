@@ -7,6 +7,10 @@ author_profile: true
 
 Research Projects
 ======
+* **Data ETL for Deep Learning Model Selection Tasks with Dask**, UCSD, **Jan '22 - present**
+    * Working on designing a extensible and generic data loader for deep learning tasks pertaining to multi modal datasets.
+    * Developing a data parallel approach for scalable data preprocessing ETL.
+
 * **[Integrate Cerebro (deep learning model selection system) with Dask](https://drive.google.com/file/d/1e-chrx22wGqx5fTEnND5NJvyzkfP4ERL/view?usp=sharing)**, UCSD, **Sep '21 - Dec '21**
     * Developed a new backend for Cerebro using Dask that completely removes the Spark dependency while still implementing MOP.
     * Implemented and showed the parallelism achieved by MOP using the Dask backend in a distributed cluster environment. 

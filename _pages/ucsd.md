@@ -5,11 +5,40 @@ permalink: /ucsd_updates/
 author_profile: true
 ---
 
-Winter 2022 (upcoming: webpages to be updated)
+Spring 2022 (upcoming: webpages to be updated)
+======
+* CSE 256: Statistical Natural Language Processing
+* CSE 291: Structured Prediction for Natural Language Processing
+* [CSE 293: Research project](https://adalabucsd.github.io/)
+
+
+Winter 2022
 ======
 * [CSE 224: Graduate Network Systems](https://cseweb.ucsd.edu/~gmporter/)
+    * This was a “learn by doing” course (in **Go**) where the material is learned by implementing a number of hands-on projects using real cloud computing environments.
+    * The course provided a graduate-level understanding of networked systems design and implementation. Topics include techniques for building distributed applications, basics of networking, sockets programming, Remote Procedure Calls, managing scalability, networked storage, distributed consensus and state management, fault tolerance.
+    * Projects done in the course: (Github repositories will be updated soon)
+        * Socket programming
+            * Multi-node file record sort
+                * Given multiple files with records distributed across multiple machines designed a multi-node system to partition the records, send relevant records to peer servers, and sort then records according to a custom comparator. 
+                * The system was designed using socket level programming in Go and tested by instantiating virtual machines using Docker.
+            * HTTP web server: 
+                * Designed a web server that implements a subset of the HTTP/1.1 protocol specification (200, 400, 404 responses) using socket level programming in Go.
+                * The server supports HTTP pipelining of requests/responses and also implements a timeout mechanism. 
+                * Implemented a HTTP request parser to parse the HTTP request into a request object and generate a HTTP response accordingly. 
+                * Followed test driven development approach for developing features and wrote multiple unit tests and end-to-end tests for maximizing testing coverage. (Learnings coming soon)
+        
+        * Remote Procedure Calls (RPC)
+            * Dropbox-like file storage service: Developed a cloud-based file storage service that is based on Dropbox. Implemented the cloud service, and a client which interacts with the service via gRPC.
+            * Fault tolerant file storage service: (details coming soon)
+
+
 * [CSE 293: Research project](https://adalabucsd.github.io/)
-* Teaching Assistant [DSC 102: Graduate Network Systems](https://cseweb.ucsd.edu/~arunkk/dsc102_winter21/)
+    * Worked on designing a extensible and generic data loader for deep learning tasks pertaining to multi modal datasets. (more details coming soon)
+* Teaching Assistant [DSC 102: Graduate Network Systems](https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/index.html)
+    * Led discussions for the programming assignment on Data Exploration with Dask on an AWS cluster.
+    * Conducted regular office hours to help with students' doubts for the  programming assignments and exams.
+    * Designed and verified questions for the midterm and final exam.
 
 Fall 2021
 ======
