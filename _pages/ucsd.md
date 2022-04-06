@@ -8,7 +8,7 @@ author_profile: true
 Spring 2022 (upcoming: webpages to be updated)
 ======
 * CSE 256: Statistical Natural Language Processing
-* CSE 291: Structured Prediction for Natural Language Processing
+* CSE 291: Structured Prediction for Natural Language Processing ()
 * [CSE 293: Research project](https://adalabucsd.github.io/)
 
 
