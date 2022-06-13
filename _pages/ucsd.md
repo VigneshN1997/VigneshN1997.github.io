@@ -5,12 +5,33 @@ permalink: /ucsd_updates/
 author_profile: true
 ---
 
-Spring 2022 (upcoming: webpages to be updated)
+Summer 2022 (more details coming soon)
 ======
-* CSE 256: Statistical Natural Language Processing
-* CSE 291: Structured Prediction for Natural Language Processing ()
-* [CSE 293: Research project](https://adalabucsd.github.io/)
+* Software Engineering Intern @**ServiceNow**
+    * Part of Cloud Platform Development team
 
+Spring 2022
+======
+* **CSE 256: Statistical Natural Language Processing**
+    * This course explored statistical techniques for the automatic analysis of natural language data. Specific topics covered include: probabilistic language models, which define probability distributions over text sequences; text classification; sequence models; parsing sentences into syntactic representations; machine translation, and machine reading.
+    * The course was a good hands-on introduction to Natural Language Processing with multiple projects including implementing NLP models from scratch in Python.
+    * The projects gave a good experience in building baseline models and then building improvements on top of baselines and also learning to ensure reproducibility. Also, a good exposure to technical report writing was given through the projects.
+    * The projects were implemented using Object-Oriented programming concepts to design the models in a modular and extensible fashion.
+        * **Language models**: Implemented a trigram language model with linear interpolation smoothing and analyzed its performance on texts from different domains. **[Code](https://github.com/VigneshN1997/cse256-nlp/tree/main/A3_cse256_sp22)**, **[Report](https://github.com/VigneshN1997/cse256-nlp/blob/main/A3_cse256_sp22/cse256_a3_vignesh.pdf)**
+        * **Sequence tagging**: Designed a Trigram-HMM sequence tagging model and the Viterbi decoding algorithm in Python. **[Code](https://github.com/VigneshN1997/cse256-nlp/tree/main/A4_256_sp22)**, **[Report](https://github.com/VigneshN1997/cse256-nlp/blob/main/A4_256_sp22/Programmig%20Assignment%204.pdf)**
+        * **Machine Translation**: Implemented IBM Models 1 and 2 for the task of finding alignments in a parallel corpus containing English and Spanish sentences. **[Code](https://github.com/VigneshN1997/cse256-nlp/tree/main/A5_cse256_sp22)**, **[Report](https://github.com/VigneshN1997/cse256-nlp/blob/main/pa5_report.pdf)**
+
+* **CSE 291: Structured Prediction for Natural Language Processing**
+    * This course  explored structured probabilistic modeling techniques in NLP, with a split focus between supervised and unsupervised methods.
+    * This course is also a hands-on project based course with projects in PyTorch. The projects gave a good experience in implementing the algorithm in PyTorch along with writing up reports in research paper format.
+        * **Decoding strategies in Neural Machine Translations**: **[Report](https://drive.google.com/file/d/19y2xxj9zDKBRMFBFTlKMk3LtAz3bi0wn/view?usp=sharing)**
+        * **Neural Conditional Random Field for Named Entity Recognition**: **[Report](https://drive.google.com/file/d/1FAiAjXfpw3vSr_NSLeOqnG0nIQOl2yR4/view?usp=sharing)**
+        * **Neural Conditional Random Field for Constituency Parsing**: **[Report](https://drive.google.com/file/d/19daH8FIhkdXbCeN5IAyjMOnIZmuJaWAF/view?usp=sharing)**
+
+* [CSE 293: Research project](https://adalabucsd.github.io/)
+    * Completed the implementation of ETL pipeline for multimodal data to be used for deep learning model selection.
+    * Developed Model Hopper Parallelism technique for scalable model selection using XML-RPC in Python.
+    * Integrating the ETL pipeline with Model Hopper on a Kubernetes cluster setup to enable scalable model selection workloads on multimodal datasets.
 
 Winter 2022
 ======
@@ -19,18 +40,18 @@ Winter 2022
     * The course provided a graduate-level understanding of networked systems design and implementation. Topics include techniques for building distributed applications, basics of networking, sockets programming, Remote Procedure Calls, managing scalability, networked storage, distributed consensus and state management, fault tolerance.
     * Projects done in the course: (Github repositories will be updated soon)
         * Socket programming
-            * Multi-node file record sort
+            * **Multi-node file record sort**
                 * Given multiple files with records distributed across multiple machines designed a multi-node system to partition the records, send relevant records to peer servers, and sort then records according to a custom comparator. 
                 * The system was designed using socket level programming in Go and tested by instantiating virtual machines using Docker.
-            * HTTP web server: 
+            * **HTTP web server**
                 * Designed a web server that implements a subset of the HTTP/1.1 protocol specification (200, 400, 404 responses) using socket level programming in Go.
                 * The server supports HTTP pipelining of requests/responses and also implements a timeout mechanism. 
                 * Implemented a HTTP request parser to parse the HTTP request into a request object and generate a HTTP response accordingly. 
                 * Followed test driven development approach for developing features and wrote multiple unit tests and end-to-end tests for maximizing testing coverage. (Learnings coming soon)
         
         * Remote Procedure Calls (RPC)
-            * Dropbox-like file storage service: Developed a cloud-based file storage service that is based on Dropbox. Implemented the cloud service, and a client which interacts with the service via gRPC.
-            * Fault tolerant file storage service: (details coming soon)
+            * **Dropbox-like file storage service**: Developed a cloud-based file storage service that is based on Dropbox. Implemented the cloud service, and a client which interacts with the service via gRPC.
+            * **Fault tolerant file storage service**: Implemented the RAFT distributed consensus protocol using gRPC in Go. 
 
 
 * [CSE 293: Research project](https://adalabucsd.github.io/)

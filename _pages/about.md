@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my abode. My name is Vignesh Nanda Kumar. I am pursuing **Masters in Computer Science and Engineering at the University of California, San Diego (UCSD)**. I am currently working with **[Professor Arun Kumar](https://cseweb.ucsd.edu/~arunkk/), in [ADA Lab@UCSD](https://adalabucsd.github.io/)**, developing scalable ML systems. My work is pertaining to the [Cerebro](https://adalabucsd.github.io/cerebro.html) project (scalable deep learning model selection framework) and in my first quarter @ UCSD, I worked on integrating **[Cerebro with Dask](https://drive.google.com/file/d/1e-chrx22wGqx5fTEnND5NJvyzkfP4ERL/view?usp=sharing)**.
+
+
+Welcome to my abode. My name is Vignesh Nanda Kumar. I am pursuing **Masters in Computer Science and Engineering at the University of California, San Diego (UCSD)**. I am working with **[Professor Arun Kumar](https://cseweb.ucsd.edu/~arunkk/), in [ADA Lab@UCSD](https://adalabucsd.github.io/)**, developing scalable ML systems. My work is pertaining to the [Cerebro](https://adalabucsd.github.io/cerebro.html) project (scalable deep learning model selection framework) and in my first quarter @ UCSD, I worked on integrating **[Cerebro with Dask](https://drive.google.com/file/d/1e-chrx22wGqx5fTEnND5NJvyzkfP4ERL/view?usp=sharing)**.
+
+# Updates:
+* Will begin my Summer 2022 Internship as a Software Engineering Intern in the Cloud Platform Development group at ServiceNow, San Diego
 
 I am specializing in **Machine Learning** and **Systems** during my Masters at UCSD along with working on ML Systems. Towards specializing in Systems, I took up the course **[Data Systems for Machine Learning](https://cseweb.ucsd.edu//classes/fa21/cse234-a/)**, and [Computer Architecture](https://sites.google.com/eng.ucsd.edu/cse240a-f21/lecture-materials) in my first quarter @UCSD. For my second quarter, I took up the **Graduate Network Systems** course, research project advised by **Professor Arun Kumar in ADA Lab**. I am planning to learn **Natural Langauge Processing** in my Spring quarter aiding me in my work with multi-model data ETL in ADALab.
 
