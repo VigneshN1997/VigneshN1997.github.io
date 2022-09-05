@@ -8,7 +8,7 @@ author_profile: true
 Summer 2022
 ======
 * Software Engineering Intern @**ServiceNow**
-    * Developed a database agnostic producer-consumer based architecture for database compaction to be deployed in the upcoming ServiceNow platform release.
+    * Developed a database agnostic producer-consumer based architecture for database compaction.
     * Implemented Java API for periodic and user triggered compaction, job cancellation and managing compaction statistics.
     * Introduced guard rails for safe execution of compaction, along with
     ensuring race conditions are avoided when multiple nodes contest for compaction jobs.
