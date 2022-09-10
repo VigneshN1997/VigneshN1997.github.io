@@ -69,7 +69,8 @@ Fall 2021
 * [CSE 234: Data Systems for Machine Learning](https://cseweb.ucsd.edu//classes/fa21/cse234-a/)
     * Research based course on Machine Learning Systems, at the intersection of ML, Data management and Systems. I opted for the project pathway in the course where me along with another student partner worked on a quarter long project.
     * The course included weekly paper reviews, pertaining to seminal papers in the ML Systems area raning across source, build and deploy phases of an ML system.
-    * Integrating Cerebro with Dask: [Technical report of project](https://drive.google.com/file/d/1e-chrx22wGqx5fTEnND5NJvyzkfP4ERL/view?usp=sharing) 
+    * Integrating Cerebro with Dask: [Technical report of project](https://drive.google.com/file/d/1e-chrx22wGqx5fTEnND5NJvyzkfP4ERL/view?usp=sharing)
+    * Project featured on: [ADALab Cerebro](https://adalabucsd.github.io/cerebro.html) 
 * [CSE 240A: Computer Architecture](https://sites.google.com/eng.ucsd.edu/cse240a-f21/lecture-materials)
     * The course covered core concepts of computer architecture including CPU performance evaluation, instruction set architecture, pipelining, branch prediction, cache and memory hierarchy and GPU architecture.
     * The course included homework, exams, paper reviews, and a course project of implementing different branch prediction schemes.

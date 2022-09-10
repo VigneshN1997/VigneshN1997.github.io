@@ -15,6 +15,7 @@ Research Projects
     * Developed a new backend for Cerebro using Dask that completely removes the Spark dependency while still implementing MOP.
     * Implemented and showed the parallelism achieved by MOP using the Dask backend in a distributed cluster environment. 
     * Evaluated the system performance on the Criteo dataset and performed an extensive analysis of results and comparison with the Spark backend.
+    * Project featured on: [ADALab Cerebro](https://adalabucsd.github.io/cerebro.html) 
 
 * **Parallelization of K-Medoids Clustering Algorithm**, BITS Pilani, **Aug '18 - Dec '18**
     * Developed parallel K-Medoids algorithm using Adaptive Gridding for spatial partitioning in Spark Java.
