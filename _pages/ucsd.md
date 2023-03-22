@@ -20,16 +20,16 @@ Spring 2022
     * The course was a good hands-on introduction to Natural Language Processing with multiple projects including implementing NLP models from scratch in Python.
     * The projects gave a good experience in building baseline models and then building improvements on top of baselines and also learning to ensure reproducibility. Also, a good exposure to technical report writing was given through the projects.
     * The projects were implemented using Object-Oriented programming concepts to design the models in a modular and extensible fashion.
-        * **Language models**: Implemented a trigram language model with linear interpolation smoothing and analyzed its performance on texts from different domains. **[Code](https://github.com/VigneshN1997/cse256-nlp/tree/main/A3_cse256_sp22)**, **[Report](https://github.com/VigneshN1997/cse256-nlp/blob/main/A3_cse256_sp22/cse256_a3_vignesh.pdf)**
-        * **Sequence tagging**: Designed a Trigram-HMM sequence tagging model and the Viterbi decoding algorithm in Python. **[Code](https://github.com/VigneshN1997/cse256-nlp/tree/main/A4_256_sp22)**, **[Report](https://github.com/VigneshN1997/cse256-nlp/blob/main/A4_256_sp22/Programmig%20Assignment%204.pdf)**
-        * **Machine Translation**: Implemented IBM Models 1 and 2 for the task of finding alignments in a parallel corpus containing English and Spanish sentences. **[Code](https://github.com/VigneshN1997/cse256-nlp/tree/main/A5_cse256_sp22)**, **[Report](https://github.com/VigneshN1997/cse256-nlp/blob/main/pa5_report.pdf)**
+        * **Language models**: Implemented a trigram language model with linear interpolation smoothing and analyzed its performance on texts from different domains.
+        * **Sequence tagging**: Designed a Trigram-HMM sequence tagging model and the Viterbi decoding algorithm in Python.
+        * **Machine Translation**: Implemented IBM Models 1 and 2 for the task of finding alignments in a parallel corpus containing English and Spanish sentences. 
 
 * **CSE 291: Structured Prediction for Natural Language Processing**
     * This course  explored structured probabilistic modeling techniques in NLP, with a split focus between supervised and unsupervised methods.
     * This course is also a hands-on project based course with projects in PyTorch. The projects gave a good experience in implementing the algorithm in PyTorch along with writing up reports in research paper format.
-        * **Decoding strategies in Neural Machine Translations**: **[Report](https://drive.google.com/file/d/19y2xxj9zDKBRMFBFTlKMk3LtAz3bi0wn/view?usp=sharing)**
-        * **Neural Conditional Random Field for Named Entity Recognition**: **[Report](https://drive.google.com/file/d/1FAiAjXfpw3vSr_NSLeOqnG0nIQOl2yR4/view?usp=sharing)**
-        * **Neural Conditional Random Field for Constituency Parsing**: **[Report](https://drive.google.com/file/d/19daH8FIhkdXbCeN5IAyjMOnIZmuJaWAF/view?usp=sharing)**
+        * **Decoding strategies in Neural Machine Translations**: 
+        * **Neural Conditional Random Field for Named Entity Recognition**:
+        * **Neural Conditional Random Field for Constituency Parsing**: 
 
 * [CSE 293: Research project](https://adalabucsd.github.io/)
     * Completed the implementation of ETL pipeline for multimodal data to be used for deep learning model selection.
@@ -75,8 +75,8 @@ Fall 2021
     * The course covered core concepts of computer architecture including CPU performance evaluation, instruction set architecture, pipelining, branch prediction, cache and memory hierarchy and GPU architecture.
     * The course included homework, exams, paper reviews, and a course project of implementing different branch prediction schemes.
     * Paper review of [Fat Loads: Exploiting Locality Amongst Contemporaneous Load Operations to
-Optimize Cache Accesses](https://dl.acm.org/doi/abs/10.1145/3466752.3480104) : [Paper review](https://drive.google.com/file/d/13t6yNPzbMNntqTVTnN5r_uAh4hZCs00x/view?usp=sharing)
-    * Branch prediction algorithms comparison: [Technical report of project](https://drive.google.com/file/d/1YGa7M7LkvKCCIk80H_vglx96J4j5IFXA/view?usp=sharing)
+Optimize Cache Accesses](https://dl.acm.org/doi/abs/10.1145/3466752.3480104) 
+    * Branch prediction algorithms comparison
 * [CSE 130: Programming Languages](https://nadia-polikarpova.github.io/cse130-web/)
     * The course introduced Lambda Calculus and went through programming languages concepts using a pure functional language Haskell.
     * The course included programming assignments on lambda calculus, Haskell, higher order functions, tail recursion, recursive datatypes, environments and closures, and type classes.
