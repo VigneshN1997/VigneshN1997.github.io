@@ -14,6 +14,9 @@ main:
   
   - title: "Posts"
     url: /posts/
+  
+  - title: "Marriage"
+    url: /marriage/
 
   # - title: "CS Notes"
   #   url: /notes/
